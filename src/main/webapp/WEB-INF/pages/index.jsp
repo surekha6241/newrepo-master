@@ -3,7 +3,7 @@
 
 
 
-<h1>Hello DevOps World welcome to swimi kongs :)</h1>
+<h1>Hello DevOps World welcome to swimi :)</h1>
 
 
 
